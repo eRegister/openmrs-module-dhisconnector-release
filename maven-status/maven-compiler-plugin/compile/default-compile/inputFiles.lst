@@ -1,0 +1,13 @@
+/var/lib/jenkins/workspace/openmrs-module-dhisconnector/omod/src/main/java/org/openmrs/module/dhisconnector/web/resource/DHISCategoryCombosResource.java
+/var/lib/jenkins/workspace/openmrs-module-dhisconnector/omod/src/main/java/org/openmrs/module/dhisconnector/web/resource/DHISDataValueSetsResource.java
+/var/lib/jenkins/workspace/openmrs-module-dhisconnector/omod/src/main/java/org/openmrs/module/dhisconnector/web/controller/DHISConnectorController.java
+/var/lib/jenkins/workspace/openmrs-module-dhisconnector/omod/src/main/java/org/openmrs/module/dhisconnector/web/resource/LocationMappingResource.java
+/var/lib/jenkins/workspace/openmrs-module-dhisconnector/omod/src/main/java/org/openmrs/module/dhisconnector/web/resource/PeriodIndicatorReportsResource.java
+/var/lib/jenkins/workspace/openmrs-module-dhisconnector/omod/src/main/java/org/openmrs/module/dhisconnector/web/resource/DHISDataSetElementResource.java
+/var/lib/jenkins/workspace/openmrs-module-dhisconnector/omod/src/main/java/org/openmrs/module/dhisconnector/extension/html/AdminList.java
+/var/lib/jenkins/workspace/openmrs-module-dhisconnector/omod/src/main/java/org/openmrs/module/dhisconnector/web/controller/DHISConnectorRestController.java
+/var/lib/jenkins/workspace/openmrs-module-dhisconnector/omod/src/main/java/org/openmrs/module/dhisconnector/web/resource/DHISDataSetsResource.java
+/var/lib/jenkins/workspace/openmrs-module-dhisconnector/omod/src/main/java/org/openmrs/module/dhisconnector/web/resource/DHISDataElementsResource.java
+/var/lib/jenkins/workspace/openmrs-module-dhisconnector/omod/src/main/java/org/openmrs/module/dhisconnector/web/resource/DHISAttributeCombosResource.java
+/var/lib/jenkins/workspace/openmrs-module-dhisconnector/omod/src/main/java/org/openmrs/module/dhisconnector/web/resource/MappingResource.java
+/var/lib/jenkins/workspace/openmrs-module-dhisconnector/omod/src/main/java/org/openmrs/module/dhisconnector/web/resource/DHISOrganisationUnitResource.java

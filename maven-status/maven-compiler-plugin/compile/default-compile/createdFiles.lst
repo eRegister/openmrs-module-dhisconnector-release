@@ -1,0 +1,13 @@
+org/openmrs/module/dhisconnector/web/resource/MappingResource.class
+org/openmrs/module/dhisconnector/web/resource/DHISDataElementsResource.class
+org/openmrs/module/dhisconnector/web/resource/DHISDataSetsResource.class
+org/openmrs/module/dhisconnector/web/resource/DHISAttributeCombosResource.class
+org/openmrs/module/dhisconnector/web/resource/DHISDataValueSetsResource.class
+org/openmrs/module/dhisconnector/web/controller/DHISConnectorRestController.class
+org/openmrs/module/dhisconnector/web/resource/PeriodIndicatorReportsResource.class
+org/openmrs/module/dhisconnector/web/resource/LocationMappingResource.class
+org/openmrs/module/dhisconnector/web/resource/DHISCategoryCombosResource.class
+org/openmrs/module/dhisconnector/web/resource/DHISDataSetElementResource.class
+org/openmrs/module/dhisconnector/extension/html/AdminList.class
+org/openmrs/module/dhisconnector/web/resource/DHISOrganisationUnitResource.class
+org/openmrs/module/dhisconnector/web/controller/DHISConnectorController.class
